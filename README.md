@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
+I'm Jorge Zazueta! An emerging full stack engineer with experience in B2B SaaS and ERP systems.
 
-<!--
-**e1zz/e1zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Tech Stack
+Frontend: React, TypeScript, Tailwind CSS, Angular
+Backend: Node.js, Express, PostgreSQL, Laravel
+Other: Docker, Git, Cloudflare, R2, redis, PHPMyadmin
+Currently Working On: 
+-Fintor
+-Aximed
+-TalentIQ
 
-Here are some ideas to get you started:
+Let's Collaborate!
+I'm open to collaborating on interesting projects. Feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to Reach Me
+📧 Email: jorgeezp10@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/jorge-e-zazueta-511752251/
+
+Fun fact: I love building scalable systems and solving complex business problems through code! ⚡
