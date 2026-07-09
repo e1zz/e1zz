@@ -10,6 +10,13 @@ Currently Working On:
 -Aximed
 -TalentIQ
 
+Currently learning: 
+-Python Django
+-Expo 
+-Flutter
+-C#
+-.NET
+-Java
 Let's Collaborate!
 I'm open to collaborating on interesting projects. Feel free to reach out!
 
